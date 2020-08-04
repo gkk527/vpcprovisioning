@@ -1,0 +1,4 @@
+vpc_name: ansibled-vpc
+vpc_key: ansibled-key
+vpc_dns_zone: ansibled
+aws_region: us-east-1
